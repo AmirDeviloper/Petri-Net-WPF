@@ -1,0 +1,48 @@
+C:\Users\Amir\Documents\Visual Studio 2022\repo\AppGUI_WPF\bin\Debug\AppGUI_WPF.exe.config
+C:\Users\Amir\Documents\Visual Studio 2022\repo\AppGUI_WPF\bin\Debug\AppGUI_WPF.exe
+C:\Users\Amir\Documents\Visual Studio 2022\repo\AppGUI_WPF\bin\Debug\AppGUI_WPF.pdb
+C:\Users\Amir\Documents\Visual Studio 2022\repo\AppGUI_WPF\obj\Debug\AppGUI_WPF.csproj.AssemblyReference.cache
+C:\Users\Amir\Documents\Visual Studio 2022\repo\AppGUI_WPF\obj\Debug\AppGUI_WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amir\Documents\Visual Studio 2022\repo\AppGUI_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Amir\Documents\Visual Studio 2022\repo\AppGUI_WPF\obj\Debug\App.g.cs
+C:\Users\Amir\Documents\Visual Studio 2022\repo\AppGUI_WPF\obj\Debug\AppGUI_WPF_MarkupCompile.cache
+C:\Users\Amir\Documents\Visual Studio 2022\repo\AppGUI_WPF\obj\Debug\AppGUI_WPF_MarkupCompile.lref
+C:\Users\Amir\Documents\Visual Studio 2022\repo\AppGUI_WPF\obj\Debug\MainWindow.baml
+C:\Users\Amir\Documents\Visual Studio 2022\repo\AppGUI_WPF\obj\Debug\AppGUI_WPF.g.resources
+C:\Users\Amir\Documents\Visual Studio 2022\repo\AppGUI_WPF\obj\Debug\AppGUI_WPF.Properties.Resources.resources
+C:\Users\Amir\Documents\Visual Studio 2022\repo\AppGUI_WPF\obj\Debug\AppGUI_WPF.csproj.GenerateResource.cache
+C:\Users\Amir\Documents\Visual Studio 2022\repo\AppGUI_WPF\obj\Debug\AppGUI_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Documents\Visual Studio 2022\repo\AppGUI_WPF\obj\Debug\AppGUI_WPF.exe
+C:\Users\Amir\Documents\Visual Studio 2022\repo\AppGUI_WPF\obj\Debug\AppGUI_WPF.pdb
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_app_gui_petrinet\AppGUI_WPF\obj\Debug\AppGUI_WPF.csproj.AssemblyReference.cache
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_app_gui_petrinet\AppGUI_WPF\obj\Debug\AppGUI_WPF.csproj.SuggestedBindingRedirects.cache
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_app_gui_petrinet\AppGUI_WPF\obj\Debug\MainWindow.g.cs
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_app_gui_petrinet\AppGUI_WPF\obj\Debug\App.g.cs
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_app_gui_petrinet\AppGUI_WPF\obj\Debug\AppGUI_WPF_MarkupCompile.cache
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_app_gui_petrinet\AppGUI_WPF\obj\Debug\AppGUI_WPF_MarkupCompile.lref
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_app_gui_petrinet\AppGUI_WPF\obj\Debug\AppGUI_WPF.exe
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_app_gui_petrinet\AppGUI_WPF\obj\Debug\AppGUI_WPF.pdb
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_app_gui_petrinet\AppGUI_WPF\bin\Debug\AppGUI_WPF.exe.config
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_app_gui_petrinet\AppGUI_WPF\bin\Debug\AppGUI_WPF.exe
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_app_gui_petrinet\AppGUI_WPF\bin\Debug\AppGUI_WPF.pdb
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_app_gui_petrinet\AppGUI_WPF\obj\Debug\MainWindow.baml
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_app_gui_petrinet\AppGUI_WPF\obj\Debug\AppGUI_WPF.g.resources
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_app_gui_petrinet\AppGUI_WPF\obj\Debug\AppGUI_WPF.Properties.Resources.resources
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_app_gui_petrinet\AppGUI_WPF\obj\Debug\AppGUI_WPF.csproj.GenerateResource.cache
+D:\_Projects Archive\All_Projects\programing\c#\__app_db_doc\no_doc\_app_gui_petrinet\AppGUI_WPF\obj\Debug\AppGUI_WPF.csproj.CoreCompileInputs.cache
+C:\Users\AmirDevil\Desktop\uploaded_github\AppGUI_WPF\bin\Debug\AppGUI_WPF.exe.config
+C:\Users\AmirDevil\Desktop\uploaded_github\AppGUI_WPF\bin\Debug\AppGUI_WPF.exe
+C:\Users\AmirDevil\Desktop\uploaded_github\AppGUI_WPF\bin\Debug\AppGUI_WPF.pdb
+C:\Users\AmirDevil\Desktop\uploaded_github\AppGUI_WPF\obj\Debug\AppGUI_WPF.csproj.AssemblyReference.cache
+C:\Users\AmirDevil\Desktop\uploaded_github\AppGUI_WPF\obj\Debug\AppGUI_WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\AmirDevil\Desktop\uploaded_github\AppGUI_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\AmirDevil\Desktop\uploaded_github\AppGUI_WPF\obj\Debug\App.g.cs
+C:\Users\AmirDevil\Desktop\uploaded_github\AppGUI_WPF\obj\Debug\AppGUI_WPF_MarkupCompile.cache
+C:\Users\AmirDevil\Desktop\uploaded_github\AppGUI_WPF\obj\Debug\AppGUI_WPF_MarkupCompile.lref
+C:\Users\AmirDevil\Desktop\uploaded_github\AppGUI_WPF\obj\Debug\MainWindow.baml
+C:\Users\AmirDevil\Desktop\uploaded_github\AppGUI_WPF\obj\Debug\AppGUI_WPF.g.resources
+C:\Users\AmirDevil\Desktop\uploaded_github\AppGUI_WPF\obj\Debug\AppGUI_WPF.Properties.Resources.resources
+C:\Users\AmirDevil\Desktop\uploaded_github\AppGUI_WPF\obj\Debug\AppGUI_WPF.csproj.GenerateResource.cache
+C:\Users\AmirDevil\Desktop\uploaded_github\AppGUI_WPF\obj\Debug\AppGUI_WPF.csproj.CoreCompileInputs.cache
+C:\Users\AmirDevil\Desktop\uploaded_github\AppGUI_WPF\obj\Debug\AppGUI_WPF.exe
+C:\Users\AmirDevil\Desktop\uploaded_github\AppGUI_WPF\obj\Debug\AppGUI_WPF.pdb

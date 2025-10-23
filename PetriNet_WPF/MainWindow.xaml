@@ -1,0 +1,74 @@
+﻿<Window x:Class="AppGUI_WPF.MainWindow"
+        ResizeMode="CanMinimize"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppGUI_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="640" Width="1506">
+    <Grid>
+        <Canvas x:Name="canvas" Background="#FF777777">
+            <StackPanel Height="587" Width="153" HorizontalAlignment="Center" VerticalAlignment="Top" Background="#FFD4D4D4" Canvas.Top="23">
+                <Button x:Name="players_turn_button" Content="Players Turn" Height="33" Background="#FF8414BB" Click="players_turn_button_Click"/>
+                <Button x:Name="mode_button" Content="Insert Mode: " Height="33" Background="#FFB44EE6" Click="mode_button_Click"/>
+                <Button x:Name="chess_mode_button" Content="Chess Mode:" Height="33" Background="#FFB44EE6" Click="chess_mode_button_Click"/>
+                <TextBlock TextWrapping="Wrap" Height="18" Text="--------------------------------"/>
+                <Button x:Name="like_transition_button" Content="Thin Rectangle [F2]" Height="19" Background="#FF0F2EDA" Foreground="#FF18DDE2" Click="like_transition_button_Click" FontSize="9"/>
+                <Button x:Name="transition_button" Content="Transition [F3]" Height="33" Background="#FF0F2EDA" Click="transition_button_Click" Foreground="#FF18DDE2"/>
+                <Button x:Name="place_button" Content="Place [F4]" Height="33" Background="#FF0F2EDA" Click="place_button_Click" Foreground="#FF18DDE2"/>
+                <Button x:Name="connect_arc" Content="Connect Arc [F5]" Height="33" Background="#FF0F2EDA" Foreground="#FF18DDE2" Click="connect_arc_Click"/>
+                <TextBlock TextWrapping="Wrap" Height="18" Text="--------------------------------"/>
+                <TextBlock TextWrapping="Wrap" Height="18" Background="#FF8CCA71"><Run Text="Tokens Count:"/><LineBreak/><Run/></TextBlock>
+                <TextBox x:Name="place_arc_text" TextWrapping="Wrap" Width="152" TextChanged="TextBox_TextChanged" KeyDown="place_arc_slider_KeyDown" IsEnabled="True"/>
+                <Button x:Name="set_tokens_count_button" Content="Clear Tokens Count" Height="33" Background="OrangeRed" Click="clear_tokens_count_button_click"/>
+                <TextBlock TextWrapping="Wrap" Text="--------------------------------" Height="18" Width="153"/>
+                <TextBlock TextWrapping="Wrap" Height="18" Text="Size:" Background="#FFCDE020"/>
+                <Slider x:Name="size_slider" Width="153" Height="20" Minimum="4" Maximum="10" ValueChanged="size_slider_ValueChanged" />
+                <TextBlock TextWrapping="Wrap" Text="--------------------------------" Height="18" Width="153"/>
+                <TextBlock TextWrapping="Wrap" Height="18" Text="Set New Name:"/>
+                <TextBox x:Name="new_item_name_text" MaxLength="5" TextWrapping="Wrap" Width="152" Height="20"/>
+                <Button x:Name="set_new_name_button" Content="Set Name To Item" Height="33" Background="#FF2D9C52" Click="set_new_name_button_Click"/>
+            </StackPanel>
+            <ListBox x:Name="items_name_list" Height="182" Width="172"  HorizontalAlignment="Left" Canvas.Left="1310" VerticalAlignment="Center" SelectionChanged="items_name_list_SelectionChanged" Canvas.Top="83" Background="#FFA4A4A4" BorderBrush="#FFABADB3" FontSize="8"/>
+            <ListBox x:Name="arcs_name_list" Height="313" Width="172" Canvas.Left="1310" HorizontalAlignment="Left" VerticalAlignment="Center" Canvas.Top="297" Background="#FFBDBDBD" BorderBrush="#FFABADB3"/>
+            <Label Content="Places And Transitions:" Canvas.Left="1310" Canvas.Top="57" HorizontalContentAlignment="Left" VerticalAlignment="Center" Width="129" HorizontalAlignment="Center"/>
+            <Label Content="Arcs List:" Canvas.Left="1310" Canvas.Top="271" HorizontalContentAlignment="Left" Width="64" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Menu DockPanel.Dock="Top" Height="18" Width="1506" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+            <DockPanel>
+                <Menu DockPanel.Dock="Top">
+
+                    <MenuItem Header="_File">
+                        <MenuItem Header="_Save" Click="save_button_Click"/>
+                        <MenuItem Header="_Load" Click="load_button_Click"/>
+                    </MenuItem>
+
+                    <MenuItem Header="_Edit">
+                        <MenuItem Header="_Clear Page" Click="clear_page_button_Click"/>
+                        <MenuItem Header="_Remove Selected Items" Click="remove_item_button_Click"/>
+                        <MenuItem Header="_Copy Selected Items" Click="copy_items_button_Click"/>
+                        <MenuItem Name="undo_button" Header="_Undo" Click="undo_button_Click"/>
+                        <MenuItem Name="redo_button" Header="_Redo" Click="redo_button_Click"/>
+                    </MenuItem>
+
+                    <MenuItem Header="_Select/UnSelect">
+                        <MenuItem Header="_Select All" Click="select_all_arcs_button_Click"/>
+                        <MenuItem Header="_Select" Click="select_items_button_Click"/>
+                        <MenuItem Header="_Unselect All" Click="unselect_items_button_Click"/>
+                        <MenuItem Header="_Reverse Selected" Click="reverse_items_button_Click"/>
+                        <MenuItem Header="_Remove All Arcs" Click="remove_arcs_button_Click"/>
+                        <MenuItem Header="_Remove Selected Arcs" Click="remove_selected_arcs_button_Click"/>
+
+                        <MenuItem Header="_Select Player 1 Items" Click="select_player_1_all_iems_button_Click"/>
+                        <MenuItem Header="_UnSelect Player 1 Items" Click="uselect_player_1_all_iems_button_Click"/>
+                        <MenuItem Header="_Select Player 2 Items" Click="select_player_2_all_iems_button_Click"/>
+                        <MenuItem Header="_UnSelect Player 2 Items" Click="uselect_player_2_all_iems_button_Click"/>
+                    </MenuItem>
+
+                </Menu>
+                <StackPanel></StackPanel>
+            </DockPanel>
+
+        </Canvas>
+    </Grid>
+</Window>
